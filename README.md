@@ -9,6 +9,10 @@ This library provides a clean implementation of the x402 protocol for contract-b
 - **Server developers** to register x402 service contracts (NFT Mint, Reward Points, Transfer/Split)
 - **Client applications** to discover services and execute transactions via EIP-712 signed authorizations
 
+## Acknowledgement
+
+This project is inspired by [Official Cronos Labs A2A example](https://github.com/cronos-labs/x402-examples/tree/main/a2a).
+
 ## Features
 
 - 🔐 EIP-712 typed data signing for secure transactions
