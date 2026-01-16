@@ -4,7 +4,7 @@ TypeScript SDK for x402 protocol contract interactions on Cronos networks.
 
 ## Overview
 
-This library provides a clean implementation of the x402 protocol for contract-based services on Cronos. It enables:
+This library provides an implementation of the x402 protocol for contract-based services on Cronos. It enables:
 
 - **Server developers** to register x402 service contracts (NFT Mint, Reward Points, Transfer/Split)
 - **Client applications** to discover services and execute transactions via EIP-712 signed authorizations
